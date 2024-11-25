@@ -1,0 +1,130 @@
+<mvc:View
+    controllerName="com.vml.invoicegenerator.controller.App"
+	xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+	xmlns:core="sap.ui.core"
+	xmlns="sap.m">
+	<App id="app">
+		<Page
+            id="page"
+            title="{i18n>title}"
+            showFooter="true">
+			<content>
+				<HBox id="idHeadr" justifyContent="SpaceAround" width="100%" >
+					<!-- First HBox: Left-Aligned -->
+					<HBox id="idCstNm" alignItems="Center" justifyContent="Center" width="33%">
+						<Text id="idTextCst" text="Customer Name : "></Text>
+						<Input id="idCustmrNm" placeholder="Enter customer name"></Input>
+					</HBox>
+				
+					<!-- Second HBox: Center-Aligned -->
+					<HBox id="idCstCnt" alignItems="Center" justifyContent="Center" width="33%">
+						<Text id="idTextPn" text="Phone Number : "></Text>
+						<Input id="idIntPn" placeholder="Enter customer Phone number"></Input>
+					</HBox>
+				
+					<!-- Third HBox: Right-Aligned -->
+					<HBox id="idCstAdr" alignItems="Center" justifyContent="Center" width="33%">
+						<Text id="idTextAdr" text="Address : "></Text>
+						<Input id="idIntAdr" placeholder="Enter customer Address"></Input>
+					</HBox>
+				</HBox>
+				  <core:HTML content="&lt;hr style='width:100%; border:1px solid #ccc; margin:10px 0;' /&gt;" />
+
+				<Table id="idTable" items="{path:'InvoiceModel>/'}" updateFinished="onTblUpdateFinsh" backgroundDesign="Solid" class="sapUiMediumMarginBegin sapUiMediumMarginEnd">
+					<headerToolbar>
+						<OverflowToolbar >
+							<Input
+                            id="idItemSearch"
+                            width="100%"
+                            placeholder="Search for products..."
+                            showSuggestion="true"
+                            submit="onAddItmPrs"
+                            suggestionItemSelected="onSuggestionItemSelected"
+                            suggestionItems="{
+                            path: 'ProductListModel>/',
+                            templateShareable: false
+                            }">
+								<suggestionItems>
+									<core:Item text="{path:'ProductListModel>Product'} {ProductListModel>ProductCode}-{ProductListModel>Qty}{ProductListModel>Unit}"  key="{ProductListModel>ProductCode}--{ProductListModel>Qty}"/>
+								</suggestionItems>
+							</Input>
+						</OverflowToolbar>
+					</headerToolbar>
+					<columns>
+						<Column>
+							<Text width="80%"
+                                id="idTxtPrd"
+                                text="Product"
+                            />
+						</Column>
+						<Column demandPopin="true">
+							<Text
+                                id="idTxtPrdDesc"
+                                text="Description"
+                            />
+						</Column>
+						<Column >
+							<Text id="idQty" text="Quantity" ></Text>
+						</Column>
+						<Column>
+							<Text
+                                id="idCP"
+                                text="Cost Price"
+                            />
+						</Column>
+						<Column>
+							<Text
+                                id="idSP"
+                                text="Selling Price"
+                            />
+						</Column>
+						<Column>
+							<Text
+                                id="idGST"
+                                text="GST"
+                            />
+						</Column>
+						<Column>
+							<Text
+                                id="idSPGST"
+                                text="SP+GST"
+                            />
+						</Column>
+						<Column>
+							<Text text="Actions" />
+						</Column>
+					</columns>
+					<items>
+						<ColumnListItem>
+							<cells>
+								<Text text="{InvoiceModel>Product}" />
+								<Text text="{InvoiceModel>ProductCode}" />
+								<Text text="{InvoiceModel>Qty} {InvoiceModel>Unit} "></Text>
+								<Text text="{InvoiceModel>Cost_Price}" />
+								<Text text="{InvoiceModel>Selling_Price}" />
+								<Text text="{= (${InvoiceModel>Selling_Price}*0.18).toFixed(2)}" />
+								<Text text="{= (${InvoiceModel>Selling_Price} + (${InvoiceModel>Selling_Price} * 0.18)).toFixed(2) }" />
+								<!-- Delete Button -->
+								<Button icon="sap-icon://delete" press="onDelRow" type="Transparent" tooltip="Delete Row"/>
+							</cells>
+						</ColumnListItem>
+					</items>
+				</Table>
+			</content>
+			<footer>
+				<OverflowToolbar>
+					<ToolbarSpacer />
+					<Text text="Total bill:"></Text>
+					<Text id="idTotlVal" text="" class="--sapFontHeader1Size" ></Text>
+					<Toolbar ></Toolbar>
+					<Button
+                        type="Accept"
+                        text="Print"
+                        press="onPrntPrs"
+                    />
+				</OverflowToolbar>
+			</footer>
+		</Page>
+	</App>
+</mvc:View>

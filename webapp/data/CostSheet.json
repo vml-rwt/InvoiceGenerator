@@ -1,0 +1,1482 @@
+[
+  {
+    "ProductCode": "CF 13",
+    "Product": "CF 13 Style Color Fresh",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 119.18,
+    "Selling_Price": 111.1
+  },
+  {
+    "ProductCode": "CF 13",
+    "Product": "CF 13 Style Color Fresh",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1049.02,
+    "Selling_Price": 977.9
+  },
+  {
+    "ProductCode": "CF 13",
+    "Product": "CF 13 Style Color Fresh",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 2013.08,
+    "Selling_Price": 1876.6
+  },
+  {
+    "ProductCode": "CF 13",
+    "Product": "CF 13 Style Color Fresh",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 447.22,
+    "Selling_Price": 416.9
+  },
+  {
+    "ProductCode": "CF 99",
+    "Product": "CF 99 Style Color Fresh",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 113.28,
+    "Selling_Price": 105.6
+  },
+  {
+    "ProductCode": "CF 5",
+    "Product": "CF 5 Style Color Fresh",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 148.68,
+    "Selling_Price": 138.6
+  },
+  {
+    "ProductCode": "CF 5",
+    "Product": "CF 5 Style Color Fresh",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 559.32,
+    "Selling_Price": 521.4
+  },
+  {
+    "ProductCode": "CS 99",
+    "Product": "Cs 99 Style Color Fresh",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 113.28,
+    "Selling_Price": 105.6
+  },
+  {
+    "ProductCode": "CF 5",
+    "Product": "CF 5 Style Color Fresh",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 448.4,
+    "Selling_Price": 418
+  },
+  {
+    "ProductCode": "CS White",
+    "Product": "CS White Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 162.84,
+    "Selling_Price": 151.8
+  },
+  {
+    "ProductCode": "CS White",
+    "Product": "CS White Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1445.5,
+    "Selling_Price": 1347.5
+  },
+  {
+    "ProductCode": "CS White",
+    "Product": "CS White Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 2777.72,
+    "Selling_Price": 2589.4
+  },
+  {
+    "ProductCode": "CS White",
+    "Product": "CS White Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 614.78,
+    "Selling_Price": 573.1
+  },
+  {
+    "ProductCode": "CS 1",
+    "Product": "CS 1 Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 162.84,
+    "Selling_Price": 151.8
+  },
+  {
+    "ProductCode": "CS 1",
+    "Product": "CS 1 Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1445.50,
+    "Selling_Price": 1347.5
+  },
+  {
+    "ProductCode": "CS 1",
+    "Product": "CS 1 Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 2777.72,
+    "Selling_Price": 2589.4
+  },
+  {
+    "ProductCode": "CS 1",
+    "Product": "CS 1 Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 614.78,
+    "Selling_Price": 573.1
+  },
+  {
+    "ProductCode": "CS 2",
+    "Product": "CS 2 Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 162.84,
+    "Selling_Price": 151.8
+  },
+  {
+    "ProductCode": "CS 2",
+    "Product": "CS 2 Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1445.50,
+    "Selling_Price": 1347.5
+  },
+  {
+    "ProductCode": "CS 2",
+    "Product": "CS 2 Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 2777.72,
+    "Selling_Price": 2589.4
+  },
+  {
+    "ProductCode": "CS 2",
+    "Product": "CS 2 Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 614.78,
+    "Selling_Price": 573.1
+  },
+  {
+    "ProductCode": "CS 99",
+    "Product": "CS 99 Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 153.40,
+    "Selling_Price": 143
+  },
+  {
+    "ProductCode": "CS 6",
+    "Product": "CS 6 Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 200.60,
+    "Selling_Price": 187
+  },
+  {
+    "ProductCode": "CS 6",
+    "Product": "CS 6 Style Color Smart",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 768.18,
+    "Selling_Price": 716.1
+  },
+  {
+    "ProductCode": "CSS White",
+    "Product": "CSS White Style Color Smart Shine",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 201.78,
+    "Selling_Price": 188.1
+  },
+  {
+    "ProductCode": "CSS White",
+    "Product": "CSS White Style Color Smart Shine",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 809.48,
+    "Selling_Price": 754.6
+  },
+  {
+    "ProductCode": "CSS White",
+    "Product": "CSS White Style Color Smart Shine",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 18206.00,
+    "Selling_Price": 1696.2
+  },
+  {
+    "ProductCode": "CSS White",
+    "Product": "CSS White Style Color Smart Shine",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 3488.08,
+    "Selling_Price": 3251.6
+  },
+  {
+    "ProductCode": "CSS 1",
+    "Product": "CSS 1 Style Color Smart Shine",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 201.78,
+    "Selling_Price": 188.1
+  },
+  {
+    "ProductCode": "CSS 1",
+    "Product": "CSS 1 Style Color Smart Shine",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 809.48,
+    "Selling_Price": 754.6
+  },
+  {
+    "ProductCode": "CSS 1",
+    "Product": "CSS 1 Style Color Smart Shine",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 18206.00,
+    "Selling_Price": 1696.2
+  },
+  {
+    "ProductCode": "CSS 1",
+    "Product": "CSS 1 Style Color Smart Shine",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 3488.08,
+    "Selling_Price": 3251.6
+  },
+  {
+    "ProductCode": "CSS 2",
+    "Product": "CSS 2 Style Color Smart Shine",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 188.80,
+    "Selling_Price": 176
+  },
+  {
+    "ProductCode": "CSS 99",
+    "Product": "CSS 99 Style Color Smart Shine",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 179.36,
+    "Selling_Price": 167.2
+  },
+  {
+    "ProductCode": "CSS 99",
+    "Product": "CSS 99 Style Color Smart Shine",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 678.50,
+    "Selling_Price": 632.5
+  },
+  {
+    "ProductCode": "PFP",
+    "Product": "PFP WH Style Pro Fresh Primer",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 126.26,
+    "Selling_Price": 117.7
+  },
+  {
+    "ProductCode": "PFP",
+    "Product": "PFP WH Style Pro Fresh Primer",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 484.98,
+    "Selling_Price": 452.1
+  },
+  {
+    "ProductCode": "PHP",
+    "Product": "PHP Pro Hide Primer",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1073.80,
+    "Selling_Price": 1001
+  },
+  {
+    "ProductCode": "PHP",
+    "Product": "PHP Pro Hide Primer",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 2066.18,
+    "Selling_Price": 1926.1
+  },
+  {
+    "ProductCode": "PHP",
+    "Product": "PHP Pro Hide Primer",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 96.76,
+    "Selling_Price": 90.2
+  },
+  {
+    "ProductCode": "PHP",
+    "Product": "PHP Pro Hide Primer",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 344.56,
+    "Selling_Price": 321.2
+  },
+  {
+    "ProductCode": "PF 13",
+    "Product": "PF 13 Style Power Fit",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 151.04,
+    "Selling_Price": 140.8
+  },
+  {
+    "ProductCode": "PF 13",
+    "Product": "PF 13 Style Power Fit",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 572.30,
+    "Selling_Price": 533.5
+  },
+  {
+    "ProductCode": "PF 13",
+    "Product": "PF 13 Style Power Fit",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1345.20,
+    "Selling_Price": 1254
+  },
+  {
+    "ProductCode": "PF 13",
+    "Product": "PF 13 Style Power Fit",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 2421.36,
+    "Selling_Price": 2257.2
+  },
+  {
+    "ProductCode": "PB 1",
+    "Product": "PB 1 Style Power Bright",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 191.16,
+    "Selling_Price": 178.2
+  },
+  {
+    "ProductCode": "PB 1",
+    "Product": "PB 1 Style Power Bright",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 729.24,
+    "Selling_Price": 679.8
+  },
+  {
+    "ProductCode": "PB 1",
+    "Product": "PB 1 Style Power Bright",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1749.94,
+    "Selling_Price": 1631.3
+  },
+  {
+    "ProductCode": "PB 1",
+    "Product": "PB 1 Style Power Bright",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 3328.78,
+    "Selling_Price": 3103.1
+  },
+  {
+    "ProductCode": "PB 2",
+    "Product": "PB 2 Style Power Bright",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 184.08,
+    "Selling_Price": 171.6
+  },
+  {
+    "ProductCode": "PB 2",
+    "Product": "PB 2 Style Power Bright",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 708.00,
+    "Selling_Price": 660
+  },
+  {
+    "ProductCode": "PB 99",
+    "Product": "PB 99 Style Power",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 174.64,
+    "Selling_Price": 162.8
+  },
+  {
+    "ProductCode": "PB White",
+    "Product": "PB White Style Power",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 191.16,
+    "Selling_Price": 178.2
+  },
+  {
+    "ProductCode": "PB White",
+    "Product": "PB White Style Power",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1749.94,
+    "Selling_Price": 1631.3
+  },
+  {
+    "ProductCode": "PB White",
+    "Product": "PB White Style Power",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 3328.78,
+    "Selling_Price": 3103.1
+  },
+  {
+    "ProductCode": "PB 99",
+    "Product": "PB 99 Style Power Bright",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 667.88,
+    "Selling_Price": 622.6
+  },
+  {
+    "ProductCode": "PBS White",
+    "Product": "PBS White Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 208.86,
+    "Selling_Price": 194.7
+  },
+  {
+    "ProductCode": "PBS White",
+    "Product": "PBS White Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 800.04,
+    "Selling_Price": 745.8
+  },
+  {
+    "ProductCode": "PBS White",
+    "Product": "PBS White Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1929.30,
+    "Selling_Price": 1798.5
+  },
+  {
+    "ProductCode": "PBS White",
+    "Product": "PBS White Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 3687.50,
+    "Selling_Price": 3437.5
+  },
+  {
+    "ProductCode": "PBS 1",
+    "Product": "PBS 1 Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 208.86,
+    "Selling_Price": 194.7
+  },
+  {
+    "ProductCode": "PBS 1",
+    "Product": "PBS 1 Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 842.52,
+    "Selling_Price": 785.4
+  },
+  {
+    "ProductCode": "PBS 1",
+    "Product": "PBS 1 Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1929.30,
+    "Selling_Price": 1798.5
+  },
+  {
+    "ProductCode": "PBS 1",
+    "Product": "PBS 1 Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 3687.50,
+    "Selling_Price": 3437.5
+  },
+  {
+    "ProductCode": "PBS 2",
+    "Product": "PBS 2 Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 201.78,
+    "Selling_Price": 188.1
+  },
+  {
+    "ProductCode": "PBS 2",
+    "Product": "PBS 2 Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 809.48,
+    "Selling_Price": 754.6
+  },
+  {
+    "ProductCode": "PBS 2",
+    "Product": "PBS 2 Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1851.42,
+    "Selling_Price": 1725.9
+  },
+  {
+    "ProductCode": "PBS 2",
+    "Product": "PBS 2 Style Power Bright Shine",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 3530.56,
+    "Selling_Price": 3291.2
+  },
+  {
+    "ProductCode": "NS White",
+    "Product": "NS White Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 309.16,
+    "Selling_Price": 288.2
+  },
+  {
+    "ProductCode": "NS White",
+    "Product": "NS White Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 1208.32,
+    "Selling_Price": 1126.4
+  },
+  {
+    "ProductCode": "NS White",
+    "Product": "NS White Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 5527.12,
+    "Selling_Price": 5152.4
+  },
+  {
+    "ProductCode": "NS 1",
+    "Product": "NS 1 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 309.16,
+    "Selling_Price": 288.2
+  },
+  {
+    "ProductCode": "NS 1",
+    "Product": "NS 1 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 1190.62,
+    "Selling_Price": 1109.9
+  },
+  {
+    "ProductCode": "NS 1",
+    "Product": "NS 1 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 2867.40,
+    "Selling_Price": 2673
+  },
+  {
+    "ProductCode": "NS 1",
+    "Product": "NS 1 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 5527.12,
+    "Selling_Price": 5152.4
+  },
+  {
+    "ProductCode": "NS 2",
+    "Product": "NS 2 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 309.16,
+    "Selling_Price": 288.2
+  },
+  {
+    "ProductCode": "NS 2",
+    "Product": "NS 2 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 1190.62,
+    "Selling_Price": 1109.9
+  },
+  {
+    "ProductCode": "NS 4",
+    "Product": "NS 4 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 302.08,
+    "Selling_Price": 281.6
+  },
+  {
+    "ProductCode": "NS 4",
+    "Product": "NS 4 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 1158.76,
+    "Selling_Price": 1080.2
+  },
+  {
+    "ProductCode": "NS 5",
+    "Product": "NS 5 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 313.88,
+    "Selling_Price": 292.6
+  },
+  {
+    "ProductCode": "NS 5",
+    "Product": "NS 5 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 1214.22,
+    "Selling_Price": 1131.9
+  },
+  {
+    "ProductCode": "NS 6",
+    "Product": "NS 6 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 356.36,
+    "Selling_Price": 332.2
+  },
+  {
+    "ProductCode": "NS 99",
+    "Product": "NS 99 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 302.08,
+    "Selling_Price": 281.6
+  },
+  {
+    "ProductCode": "NS 99",
+    "Product": "NS 99 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 1158.76,
+    "Selling_Price": 1080.2
+  },
+  {
+    "ProductCode": "NSS 1",
+    "Product": "NSS 1 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 310.34,
+    "Selling_Price": 289.3
+  },
+  {
+    "ProductCode": "NSS 1",
+    "Product": "NSS 1 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 2878.02,
+    "Selling_Price": 2682.9
+  },
+  {
+    "ProductCode": "NSS 1",
+    "Product": "NSS 1 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 5549.54,
+    "Selling_Price": 5173.3
+  },
+  {
+    "ProductCode": "NSS 2",
+    "Product": "NSS 2 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 310.34,
+    "Selling_Price": 289.3
+  },
+  {
+    "ProductCode": "NSS 2",
+    "Product": "NSS 2 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 1195.34,
+    "Selling_Price": 1114.3
+  },
+  {
+    "ProductCode": "NSS 2",
+    "Product": "NSS 2 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 2878.02,
+    "Selling_Price": 2682.9
+  },
+  {
+    "ProductCode": "NSS 2",
+    "Product": "NSS 2 Calista Neo Star",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 5549.54,
+    "Selling_Price": 5173.3
+  },
+  {
+    "ProductCode": "PSP White",
+    "Product": "PSP White Style Perfect Start",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 133.34,
+    "Selling_Price": 124.3
+  },
+  {
+    "ProductCode": "PSP White",
+    "Product": "PSP White Style Perfect Start",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 518.02,
+    "Selling_Price": 482.9
+  },
+  {
+    "ProductCode": "PSP White",
+    "Product": "PSP White Style Perfect Start",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 1210.68,
+    "Selling_Price": 1128.6
+  },
+  {
+    "ProductCode": "PSP White",
+    "Product": "PSP White Style Perfect Start",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 2309.26,
+    "Selling_Price": 2152.7
+  },
+  {
+    "ProductCode": "SBD White",
+    "Product": "SBD White Style Super DISTEMPER",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 296.18,
+    "Selling_Price": 276.1
+  },
+  {
+    "ProductCode": "SBD White",
+    "Product": "SBD White Style Super DISTEMPER",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 5448.00,
+    "Selling_Price": 507.1
+  },
+  {
+    "ProductCode": "SBD White",
+    "Product": "SBD White Style Super DISTEMPER",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 1008.90,
+    "Selling_Price": 940.5
+  },
+  {
+    "ProductCode": "CMX 22 Crack Master",
+    "Product": "CMX 22 ALL dry Crack Master",
+    "Unit": "Ltr",
+    "Qty": 0.5,
+    "Cost_Price": 186.44,
+    "Selling_Price": 173.8
+  },
+  {
+    "ProductCode": "WF10 Damproof",
+    "Product": "WF10 White AllDry WallnRoof",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 293.82,
+    "Selling_Price": 273.9
+  },
+  {
+    "ProductCode": "WF10 Damproof",
+    "Product": "WF10 White AllDry WallnRoof",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 11142.00,
+    "Selling_Price": 1038.4
+  },
+  {
+    "ProductCode": "WF10 Damproof",
+    "Product": "WF10 White AllDry WallnRoof",
+    "Unit": "Ltr",
+    "Qty": 10,
+    "Cost_Price": 2690.40,
+    "Selling_Price": 2508
+  },
+  {
+    "ProductCode": "WF10 Damproof",
+    "Product": "WF10 White AllDry WallnRoof",
+    "Unit": "Ltr",
+    "Qty": 20,
+    "Cost_Price": 5280.50,
+    "Selling_Price": 4922.5
+  },
+  {
+    "ProductCode": "Swp Wood Primer",
+    "Product": "Swp Wood Primer",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 217.12,
+    "Selling_Price": 211.86
+  },
+  {
+    "ProductCode": "SRP Red Oxide",
+    "Product": "SRP Red Oxd Primer",
+    "Unit": "Ltr",
+    "Qty": 0.5,
+    "Cost_Price": 106.20,
+    "Selling_Price": 105.9322034
+  },
+  {
+    "ProductCode": "SRP Red Oxide",
+    "Product": "SRP Red Oxd Primer",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 201.78,
+    "Selling_Price": 203.3898305
+  },
+  {
+    "ProductCode": "CMP Red Oxide",
+    "Product": "CMP Red Oxd Primer",
+    "Unit": "Ltr",
+    "Qty": 0.5,
+    "Cost_Price": 77.88,
+    "Selling_Price": 76.27118644
+  },
+  {
+    "ProductCode": "SRP Red Oxide",
+    "Product": "SRP Red Oxd Primer",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 539.26,
+    "Selling_Price": 550.8474576
+  },
+  {
+    "ProductCode": "SGE BR White",
+    "Product": "SGE BR White Calista",
+    "Unit": "ML",
+    "Qty": 100,
+    "Cost_Price": 41.30,
+    "Selling_Price": 46.61016949
+  },
+  {
+    "ProductCode": "SGE BR White",
+    "Product": "SGE BR White Calista",
+    "Unit": "ML",
+    "Qty": 200,
+    "Cost_Price": 71.98,
+    "Selling_Price": 76.27118644
+  },
+  {
+    "ProductCode": "SGE BR White",
+    "Product": "SGE BR White Calista",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 267.86,
+    "Selling_Price": 283.8983051
+  },
+  {
+    "ProductCode": "SGE Brown",
+    "Product": "SGE Brown Calista",
+    "Unit": "Ltr",
+    "Qty": 0.5,
+    "Cost_Price": 127.44,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "ProductCode": "SGE Brown",
+    "Product": "SGE Brown Calista",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 244.26,
+    "Selling_Price": 245.7627119
+  },
+  {
+    "ProductCode": "SGE Brown",
+    "Product": "SGE Brown Calista",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 941.64,
+    "Selling_Price": 974.5762712
+  },
+  {
+    "ProductCode": "SGE Black",
+    "Product": "SGE Black Calista",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 244.26,
+    "Selling_Price": 245.7627119
+  },
+  {
+    "ProductCode": "SGE Black",
+    "Product": "SGE Black Calista",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 941.64,
+    "Selling_Price": 974.5762712
+  },
+  {
+    "ProductCode": "SGE S Grey",
+    "Product": "SGE S Grey Calista",
+    "Unit": "Ltr",
+    "Qty": 0.5,
+    "Cost_Price": 127.44,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "ProductCode": "SGE S Grey",
+    "Product": "SGE S Grey Calista",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 244.26,
+    "Selling_Price": 245.7627119
+  },
+  {
+    "ProductCode": "SGE S Grey",
+    "Product": "SGE S Grey Calista",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 941.64,
+    "Selling_Price": 974.5762712
+  },
+  {
+    "ProductCode": "SGE GL Brown",
+    "Product": "SGE GL BrownCalista",
+    "Unit": "ML",
+    "Qty": 100,
+    "Cost_Price": 38.94,
+    "Selling_Price": 42.37288136
+  },
+  {
+    "ProductCode": "SGE GL Brown",
+    "Product": "SGE GL BrownCalista",
+    "Unit": "Ltr",
+    "Qty": 0.5,
+    "Cost_Price": 127.44,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "ProductCode": "SGE GL Brown",
+    "Product": "SGE GL BrownCalista",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 244.26,
+    "Selling_Price": 245.7627119
+  },
+  {
+    "ProductCode": "SGE GL Brown",
+    "Product": "SGE GL BrownCalista",
+    "Unit": "Ltr",
+    "Qty": 4,
+    "Cost_Price": 941.64,
+    "Selling_Price": 974.5762712
+  },
+  {
+    "ProductCode": "SGE Phirozi",
+    "Product": "SGE Phirozi Calista",
+    "Unit": "ML",
+    "Qty": 500,
+    "Cost_Price": 127.44,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "ProductCode": "SGE Phirozi",
+    "Product": "SGE Phirozi Calista",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 244.26,
+    "Selling_Price": 245.7627119
+  },
+  {
+    "ProductCode": "Gold",
+    "Product": "Gold",
+    "Unit": "ML",
+    "Qty": 200,
+    "Cost_Price": 221.84,
+    "Selling_Price": 216.1016949
+  },
+  {
+    "ProductCode": "Silver",
+    "Product": "Silver",
+    "Unit": "ML",
+    "Qty": 100,
+    "Cost_Price": 49.56,
+    "Selling_Price": 50.84745763
+  },
+  {
+    "ProductCode": "Silver",
+    "Product": "Silver",
+    "Unit": "ML",
+    "Qty": 500,
+    "Cost_Price": 210.04,
+    "Selling_Price": 182.2033898
+  },
+  {
+    "ProductCode": "Silver",
+    "Product": "Silver",
+    "Unit": "ML",
+    "Qty": 1,
+    "Cost_Price": 472.00,
+    "Selling_Price": 355.9322034
+  },
+  {
+    "Product": "Roller",
+    "ProductCode": "Charminar",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 95.00,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "Product": "Roller",
+    "ProductCode": "Karnal Green",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 65.00,
+    "Selling_Price": 152.5423729
+  },
+  {
+    "Product": "Roller",
+    "ProductCode": "Rio",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 85.00,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "Product": "Roller",
+    "ProductCode": "Karnal White",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 55.00,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "Product": "Roller",
+    "ProductCode": "Captain",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 130.00,
+    "Selling_Price": 152.5423729
+  },
+  {
+    "Product": "Roller",
+    "ProductCode": "Captain Jumbo",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 130.00,
+    "Selling_Price": 152.5423729
+  },
+  {
+    "Product": "Roller",
+    "ProductCode": "Captain 4'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 26.00,
+    "Selling_Price": 33.89830508
+  },
+  {
+    "Product": "Pattra/Patti",
+    "ProductCode": "8'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 18.00,
+    "Selling_Price": 16.94915254
+  },
+  {
+    "Product": "Pattra/Patti",
+    "ProductCode": "6'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 12.00,
+    "Selling_Price": 12.71186441
+  },
+  {
+    "Product": "Pattra/Patti",
+    "ProductCode": "4'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 8.00,
+    "Selling_Price": 8.474576271
+  },
+  {
+    "Product": "Scrapper",
+    "ProductCode": "Scrapper",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 22.00,
+    "Selling_Price": 33.89830508
+  },
+  {
+    "Product": "Gurumala",
+    "ProductCode": "Gurmala",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 55.00,
+    "Selling_Price": 67.79661017
+  },
+  {
+    "Product": "Brush",
+    "ProductCode": "Palson 5'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 120.00,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "Product": "Brush",
+    "ProductCode": "Captain Gold 5'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 130.00,
+    "Selling_Price": 135.5932203
+  },
+  {
+    "Product": "Brush",
+    "ProductCode": "Captain 5'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 85.00,
+    "Selling_Price": 110.1694915
+  },
+  {
+    "Product": "Brush",
+    "ProductCode": "Palson 3'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 42.00,
+    "Selling_Price": 50.84745763
+  },
+  {
+    "Product": "Brush",
+    "ProductCode": "Palson 2'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 18.00,
+    "Selling_Price": 25.42372881
+  },
+  {
+    "Product": "Brush",
+    "ProductCode": "Jayana B Ser",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 100.00,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "Product": "Brush",
+    "ProductCode": "Amber B Set",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 130.00,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "Product": "Tarpene",
+    "ProductCode": "Oil Tarpene",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 87.67,
+    "Selling_Price": 84.74576271
+  },
+  {
+    "Product": "Thinner",
+    "ProductCode": "Oil Thinner",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 95.00,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "Product": "Putty",
+    "ProductCode": "Birla",
+    "Qty": 20,
+    "Unit": "KG",
+    "Cost_Price": 410.00,
+    "Selling_Price": 381.3559322
+  },
+  {
+    "Product": "Putty",
+    "ProductCode": "Asian",
+    "Qty": 20,
+    "Unit": "KG",
+    "Cost_Price": 360.00,
+    "Selling_Price": 338.9830508
+  },
+  {
+    "Product": "Putty",
+    "ProductCode": "JK",
+    "Qty": 20,
+    "Unit": "KG",
+    "Cost_Price": 420.00,
+    "Selling_Price": 389.8305085
+  },
+  {
+    "Product": "Sand paper",
+    "ProductCode": "320",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 10.95,
+    "Selling_Price": 12.71186441
+  },
+  {
+    "Product": "Sand paper",
+    "ProductCode": "320",
+    "Qty": 5,
+    "Unit": "No.",
+    "Cost_Price": 54.75,
+    "Selling_Price": 63.55932203
+  },
+  {
+    "Product": "Sand paper",
+    "ProductCode": "150",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 10.95,
+    "Selling_Price": 12.71186441
+  },
+  {
+    "Product": "Sand paper",
+    "ProductCode": "150",
+    "Qty": 5,
+    "Unit": "No.",
+    "Cost_Price": 54.75,
+    "Selling_Price": 63.55932203
+  },
+  {
+    "Product": "Wire Brush",
+    "ProductCode": "Wire Brush plastic",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 40.00,
+    "Selling_Price": 50.84745763
+  },
+  {
+    "Product": "Teracota",
+    "ProductCode": "ACE Sparc",
+    "Qty": 1,
+    "Unit": "Ltr",
+    "Cost_Price": 200.00,
+    "Selling_Price": 220.3389831
+  },
+  {
+    "Product": "Teracota",
+    "ProductCode": "Apex Ming red",
+    "Qty": 1,
+    "Unit": "Ltr",
+    "Cost_Price": 330.00,
+    "Selling_Price": 338.9830508
+  },
+  {
+    "Product": "Teracota",
+    "ProductCode": "Apex Sigred",
+    "Qty": 1,
+    "Unit": "Ltr",
+    "Cost_Price": 330.00,
+    "Selling_Price": 237.2881356
+  },
+  {
+    "Product": "Teracota",
+    "ProductCode": "Apex AB15",
+    "Qty": 1,
+    "Unit": "Ltr",
+    "Cost_Price": 330.00,
+    "Selling_Price": 338.9830508
+  },
+  {
+    "Product": "White Cement",
+    "ProductCode": "Birla",
+    "Qty": 1,
+    "Unit": "KG",
+    "Cost_Price": 26.00,
+    "Selling_Price": 33.89830508
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Orange",
+    "Qty": 50,
+    "Unit": "ML",
+    "Cost_Price": 33.81,
+    "Selling_Price": 42.37288136
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Orange ",
+    "Qty": 100,
+    "Unit": "ML",
+    "Cost_Price": 63.12,
+    "Selling_Price": 84.74576271
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Fast Yellow",
+    "Qty": 50,
+    "Unit": "ML",
+    "Cost_Price": 36.50,
+    "Selling_Price": 42.37288136
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Fast Yellow",
+    "Qty": 100,
+    "Unit": "ML",
+    "Cost_Price": 63.50,
+    "Selling_Price": 84.74576271
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Black",
+    "Qty": 50,
+    "Unit": "ML",
+    "Cost_Price": 36.50,
+    "Selling_Price": 42.37288136
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Black ",
+    "Qty": 100,
+    "Unit": "ML",
+    "Cost_Price": 63.50,
+    "Selling_Price": 84.74576271
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Green",
+    "Qty": 50,
+    "Unit": "ML",
+    "Cost_Price": 33.81,
+    "Selling_Price": 42.37288136
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Green ",
+    "Qty": 100,
+    "Unit": "ML",
+    "Cost_Price": 63.12,
+    "Selling_Price": 84.74576271
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Red",
+    "Qty": 50,
+    "Unit": "ML",
+    "Cost_Price": 33.81,
+    "Selling_Price": 42.37288136
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Red ",
+    "Qty": 100,
+    "Unit": "ML",
+    "Cost_Price": 63.12,
+    "Selling_Price": 84.74576271
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Voilet",
+    "Qty": 50,
+    "Unit": "ML",
+    "Cost_Price": 33.81,
+    "Selling_Price": 42.37288136
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Voilet ",
+    "Qty": 100,
+    "Unit": "ML",
+    "Cost_Price": 63.12,
+    "Selling_Price": 84.74576271
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Blue",
+    "Qty": 50,
+    "Unit": "ML",
+    "Cost_Price": 33.81,
+    "Selling_Price": 42.37288136
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Blue ",
+    "Qty": 100,
+    "Unit": "ML",
+    "Cost_Price": 63.12,
+    "Selling_Price": 84.74576271
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Yellow Oxide",
+    "Qty": 50,
+    "Unit": "ML",
+    "Cost_Price": 33.81,
+    "Selling_Price": 42.37288136
+  },
+  {
+    "Product": "Stainer",
+    "ProductCode": "Yellow Oxide ",
+    "Qty": 100,
+    "Unit": "ML",
+    "Cost_Price": 63.12,
+    "Selling_Price": 84.74576271
+  },
+  {
+    "Product": "Putty",
+    "ProductCode": "Loose",
+    "Qty": 1,
+    "Unit": "KG",
+    "Cost_Price": 18.25,
+    "Selling_Price": 25.42372881
+  },
+  {
+    "Product": "Putty",
+    "ProductCode": "Loose",
+    "Qty": 2,
+    "Unit": "KG",
+    "Cost_Price": 36.5,
+    "Selling_Price": 50.84745763
+  },
+  {
+    "Product": "Putty",
+    "ProductCode": "Loose",
+    "Qty": 5,
+    "Unit": "KG",
+    "Cost_Price": 91.25,
+    "Selling_Price": 127.1186441
+  },
+  {
+    "Product": "POP",
+    "ProductCode": "JK",
+    "Qty": 2,
+    "Unit": "KG",
+    "Cost_Price": 30.00,
+    "Selling_Price": 42.37288136
+  },
+  {
+    "Product": "POP",
+    "ProductCode": "JK Loose",
+    "Qty": 1,
+    "Unit": "KG",
+    "Cost_Price": 10.00,
+    "Selling_Price": 16.94915254
+  },
+  {
+    "Product": "POP",
+    "ProductCode": "JK Loose",
+    "Qty": 5,
+    "Unit": "KG",
+    "Cost_Price": 50.00,
+    "Selling_Price": 84.74576271
+  }
+]
