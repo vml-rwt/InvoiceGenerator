@@ -328,6 +328,14 @@
     "Selling_Price": 321.2
   },
   {
+    "ProductCode": "PHX",
+    "Product": "ST Cement Primer",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 185.26,
+    "Selling_Price": 203.38
+  },
+  {
     "ProductCode": "PF 13",
     "Product": "PF 13 Style Power Fit",
     "Unit": "Ltr",
@@ -888,6 +896,22 @@
     "Selling_Price": 283.8983051
   },
   {
+    "ProductCode": "SGE PO Red",
+    "Product": "SGE PO Red Calista",
+    "Unit": "Ltr",
+    "Qty": 1,
+    "Cost_Price": 267.86,
+    "Selling_Price": 283.8983051
+  },
+  {
+    "ProductCode": "SGE PO Red",
+    "Product": "SGE PO Red Calista",
+    "Unit": "Ltr",
+    "Qty": 0.5,
+    "Cost_Price": 141.6,
+    "Selling_Price": 152.5423729
+  },
+  {
     "ProductCode": "SGE Brown",
     "Product": "SGE Brown Calista",
     "Unit": "Ltr",
@@ -910,6 +934,14 @@
     "Qty": 4,
     "Cost_Price": 941.64,
     "Selling_Price": 974.5762712
+  },
+  {
+    "ProductCode": "SGE Black",
+    "Product": "SGE Black Calista",
+    "Unit": "Ltr",
+    "Qty": 0.5,
+    "Cost_Price": 127.44,
+    "Selling_Price": 127.1186441
   },
   {
     "ProductCode": "SGE Black",
@@ -1026,7 +1058,7 @@
   {
     "ProductCode": "Silver",
     "Product": "Silver",
-    "Unit": "ML",
+    "Unit": "Ltr",
     "Qty": 1,
     "Cost_Price": 472.00,
     "Selling_Price": 355.9322034
@@ -1285,7 +1317,7 @@
     "Qty": 1,
     "Unit": "Ltr",
     "Cost_Price": 330.00,
-    "Selling_Price": 237.2881356
+    "Selling_Price": 338.9830508
   },
   {
     "Product": "Teracota",
@@ -1345,7 +1377,7 @@
   },
   {
     "Product": "Stainer",
-    "ProductCode": "Black ",
+    "ProductCode": "Black",
     "Qty": 100,
     "Unit": "ML",
     "Cost_Price": 63.50,
@@ -1361,7 +1393,7 @@
   },
   {
     "Product": "Stainer",
-    "ProductCode": "Green ",
+    "ProductCode": "Green",
     "Qty": 100,
     "Unit": "ML",
     "Cost_Price": 63.12,
@@ -1377,7 +1409,7 @@
   },
   {
     "Product": "Stainer",
-    "ProductCode": "Red ",
+    "ProductCode": "Red",
     "Qty": 100,
     "Unit": "ML",
     "Cost_Price": 63.12,
@@ -1393,7 +1425,7 @@
   },
   {
     "Product": "Stainer",
-    "ProductCode": "Voilet ",
+    "ProductCode": "Voilet",
     "Qty": 100,
     "Unit": "ML",
     "Cost_Price": 63.12,
@@ -1409,7 +1441,7 @@
   },
   {
     "Product": "Stainer",
-    "ProductCode": "Blue ",
+    "ProductCode": "Blue",
     "Qty": 100,
     "Unit": "ML",
     "Cost_Price": 63.12,
@@ -1425,7 +1457,7 @@
   },
   {
     "Product": "Stainer",
-    "ProductCode": "Yellow Oxide ",
+    "ProductCode": "Yellow Oxide",
     "Qty": 100,
     "Unit": "ML",
     "Cost_Price": 63.12,
