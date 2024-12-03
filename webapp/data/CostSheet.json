@@ -1085,7 +1085,7 @@
     "Qty": 1,
     "Unit": "No.",
     "Cost_Price": 85.00,
-    "Selling_Price": 127.1186441
+    "Selling_Price": 127.1186
   },
   {
     "Product": "Roller",
@@ -1093,7 +1093,7 @@
     "Qty": 1,
     "Unit": "No.",
     "Cost_Price": 55.00,
-    "Selling_Price": 127.1186441
+    "Selling_Price": 127.1186
   },
   {
     "Product": "Roller",
@@ -1101,7 +1101,7 @@
     "Qty": 1,
     "Unit": "No.",
     "Cost_Price": 130.00,
-    "Selling_Price": 152.5423729
+    "Selling_Price": 152.5423
   },
   {
     "Product": "Roller",
@@ -1109,7 +1109,7 @@
     "Qty": 1,
     "Unit": "No.",
     "Cost_Price": 130.00,
-    "Selling_Price": 152.5423729
+    "Selling_Price": 152.542
   },
   {
     "Product": "Roller",
@@ -1117,7 +1117,15 @@
     "Qty": 1,
     "Unit": "No.",
     "Cost_Price": 26.00,
-    "Selling_Price": 33.89830508
+    "Selling_Price": 33.898
+  },
+  {
+    "Product": "Roller",
+    "ProductCode": "Asian 9'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 84,
+    "Selling_Price": 127.118
   },
   {
     "Product": "Pattra/Patti",
@@ -1288,6 +1296,22 @@
     "Selling_Price": 63.55932203
   },
   {
+    "Product": "Sand paper",
+    "ProductCode": "80",
+    "Qty": 1,
+    "Unit": "Mtr",
+    "Cost_Price": 10.95,
+    "Selling_Price": 12.71186441
+  },
+  {
+    "Product": "Sand paper",
+    "ProductCode": "100",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 12.3,
+    "Selling_Price": 12.71186441
+  },
+  {
     "Product": "Wire Brush",
     "ProductCode": "Wire Brush plastic",
     "Qty": 1,
@@ -1305,11 +1329,28 @@
   },
   {
     "Product": "Teracota",
+    "ProductCode": "Indigo",
+    "Qty": 1,
+    "Unit": "Ltr",
+    "Cost_Price": 240.00,
+    "Selling_Price": 237.288
+  },
+  {
+    "Product": "Teracota",
     "ProductCode": "Apex Ming red",
     "Qty": 1,
     "Unit": "Ltr",
     "Cost_Price": 330.00,
     "Selling_Price": 338.9830508
+  },
+  {
+    "Product": "Teracota",
+    "ProductCode": "Indigo Ming red",
+    "Qty": 1,
+    "Unit": "Ltr",
+    "Cost_Price": 240.00,
+    "Selling_Price": 237.288
+
   },
   {
     "Product": "Teracota",
@@ -1326,6 +1367,14 @@
     "Unit": "Ltr",
     "Cost_Price": 330.00,
     "Selling_Price": 338.9830508
+  },
+  {
+    "Product": "Teracota",
+    "ProductCode": "Apex AB15",
+    "Qty": 4,
+    "Unit": "Ltr",
+    "Cost_Price": 1230.00,
+    "Selling_Price": 1211.864407
   },
   {
     "Product": "White Cement",
@@ -1510,5 +1559,22 @@
     "Unit": "KG",
     "Cost_Price": 50.00,
     "Selling_Price": 84.74576271
+  },
+  {
+    "Product": "MaskIng Tape",
+    "ProductCode": "MaskIng 1'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 16,
+    "Selling_Price": 21.18644068
+  },
+  {
+    "Product": "MaskIng Tape",
+    "ProductCode": "MaskIng 2'",
+    "Qty": 1,
+    "Unit": "No.",
+    "Cost_Price": 27,
+    "Selling_Price": 33.89830508
+
   }
 ]
